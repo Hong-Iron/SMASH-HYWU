@@ -1,0 +1,34 @@
+{
+ "region": "서울 성동구 사근동",
+ "nameEn": "Hanyang Women's University",
+ "added": "2026-11-01T02:27",
+ "rank": 257,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HYU",
+   "campus": "한양대학교 서울캠퍼스",
+   "km": 0.3
+  },
+  {
+   "code": "SEJONG",
+   "campus": "세종대학교",
+   "km": 2.4
+  },
+  {
+   "code": "UOS",
+   "campus": "서울시립대학교",
+   "km": 2.9
+  },
+  {
+   "code": "KONKUK",
+   "campus": "건국대학교 서울캠퍼스",
+   "km": 3.1
+  },
+  {
+   "code": "SHU",
+   "campus": "삼육보건대학교",
+   "km": 3.7
+  }
+ ]
+}
